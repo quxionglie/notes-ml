@@ -1,8 +1,8 @@
 CACHE MANIFEST
-# Revision 1401351761688
+# Revision 1427344473334
 
 CACHE:
-Chapter11/README.html
+Chapter10/README.html
 Chapter02/README.html
 Chapter03/README.html
 Chapter04/README.html
@@ -11,8 +11,8 @@ Chapter06/README.html
 Chapter07/README.html
 Chapter08/README.html
 Chapter09/README.html
-Chapter10/README.html
 Chapter01/README.html
+Chapter11/README.html
 Chapter12/README.html
 Chapter13/README.html
 Chapter14/README.html
@@ -21,12 +21,6 @@ Chapter16/README.html
 Chapter17/README.html
 index.html
 gitbook/app.js
-gitbook/fonts/anonymouspro/400.woff
-gitbook/fonts/anonymouspro/400i.woff
-gitbook/fonts/anonymouspro/700.woff
-gitbook/fonts/anonymouspro/700i.woff
-gitbook/fonts/ebgaramond/400.woff
-gitbook/fonts/ebgaramond/400i.woff
 gitbook/fonts/fontawesome/FontAwesome.otf
 gitbook/fonts/fontawesome/fontawesome-webfont.eot
 gitbook/fonts/fontawesome/fontawesome-webfont.svg
@@ -56,7 +50,6 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 
 NETWORK:
